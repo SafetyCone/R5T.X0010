@@ -1,0 +1,3 @@
+R5T.X0010.Construction - Construction project for Add-simple, with annotation, extensions to Roslyn elements..
+
+GOALS:
