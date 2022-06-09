@@ -1,3 +1,6 @@
 R5T.X0010 - Add-simple, with annotation, extensions to Roslyn elements.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.F0011 - Add-simple, with annotation functionality for Roslyn syntax elements.
